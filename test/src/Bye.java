@@ -3,5 +3,6 @@ public class Bye {
         System.out.println("Bye,have dinner");
         System.out.println("Bye,have dinner");
         System.out.println("Bye,have dinner");
+        System.out.println();
     }
 }
